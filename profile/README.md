@@ -22,9 +22,9 @@ We learn, build, explore and innovate together in a proccess of strengthening ou
 
 
 ## Members 🧑
-| Name | Profile Picture |
-| ---- | --------------- |
-| Hudson Smith | <img src="https://avatars.githubusercontent.com/u/76886104?s=1000&v=100" width="100" height="100" /> |
+| Name | Profile Picture | Role |
+| ---- | --------------- | ---- |
+| [Hudson Smith](github.com/hudsonsmith) | <img src="https://avatars.githubusercontent.com/u/76886104?s=1000&v=100" width="100" height="100" /> | Member |
 
 
 <!--
