@@ -1,5 +1,10 @@
-# Lambda Foundation λ
+## Lambda Foundation λ
 
+### Hello! 👋
+
+We are the lambda foundation, a small group of coders working on open source projects together.
+
+We learn, build, explore and innovate together in a proccess of strengthening our programming skills.
 
 
 <!--
