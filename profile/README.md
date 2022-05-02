@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Lambda Foundation
+  # Lambda Foundation λ
   
   ![banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fipiccy.com%2Fres%2FLP%2Fdata%2Fimages%2Fyoutube-banner-maker-b0i.jpg&f=1&nofb=1)
   ![python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
