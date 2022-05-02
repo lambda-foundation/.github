@@ -21,7 +21,6 @@ We are the lambda foundation, a small group of coders working on open source pro
 We learn, build, explore and innovate together in a proccess of strengthening our programming skills.
 
 
-
 <!-- ## Members 🧑
 | Name | Profile Picture | Role |
 | ---- | --------------- | ---- |
