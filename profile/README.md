@@ -22,7 +22,7 @@ We learn, build, explore and innovate together in a proccess of strengthening ou
 
 
 ## Members 🧑
-
+| Name |
 <img src="https://avatars.githubusercontent.com/u/76886104?s=1000&v=100" width="100" height="100" />
 
 
