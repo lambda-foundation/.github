@@ -21,11 +21,11 @@ We are the lambda foundation, a small group of coders working on open source pro
 We learn, build, explore and innovate together in a proccess of strengthening our programming skills.
 
 
-## Members 🧑
+<!-- ## Members 🧑
 | Name | Profile Picture | Role |
 | ---- | --------------- | ---- |
 | [Hudson Smith](github.com/hudsonsmith) | <img src="https://avatars.githubusercontent.com/u/76886104?s=1000&v=100" width="100" height="100" /> | Member |
-
+ -->
 
 <!--
 
