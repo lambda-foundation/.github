@@ -12,9 +12,7 @@
 
 </div>
 
-## Lambda Foundation λ
-
-### Hello! 👋
+## Hello! 👋
 
 We are the lambda foundation, a small group of coders working on open source projects together.
 
