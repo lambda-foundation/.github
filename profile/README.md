@@ -38,3 +38,6 @@ We learn, build, explore and innovate together in a proccess of strengthening ou
 
 Slack
 [Lambda Foundation](https://lambdafoundation.slack.com)
+
+Chat
+[Chat](https://lambda-foundation.github.io/chat)
