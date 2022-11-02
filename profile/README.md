@@ -35,9 +35,3 @@ We learn, build, explore and innovate together in a proccess of strengthening ou
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-Slack
-[Lambda Foundation](https://lambdafoundation.slack.com)
-
-Chat
-[Chat](https://lambda-foundation.github.io/chat)
